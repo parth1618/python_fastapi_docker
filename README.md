@@ -1,7 +1,7 @@
 # python_fastapi_docker
 
 # Run without Docker
-Navigate to folder
+Navigate to folder python_fastapi_docker
 Run Command:
 1. py -m pip install --upgrade pip
 2. py -m pip install --user virtualenv
@@ -13,9 +13,10 @@ Run Command:
 8. Gooto: http://127.0.0.1:8000/docs
 
 # Run with Docker (assuming you already have Docker running on desktop)
-1. Navigate to folder
-2. docker-compose up -d
-3. Goto: localhost:8001/docs
+Navigate to folder python_fastapi_docker
+Run Commands
+1. docker-compose up -d
+2. Goto: localhost:8001/docs
 
 # All Endpoints:
 ![endpoints](https://user-images.githubusercontent.com/8905320/206754795-313b3514-8f18-4323-9c2d-e86216c17740.png)
