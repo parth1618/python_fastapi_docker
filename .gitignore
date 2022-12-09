@@ -20,3 +20,6 @@ inMem_records_test.db
 # Environments
 .venv
 venv/
+
+# Other
+.idea/
